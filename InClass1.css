@@ -1,0 +1,26 @@
+body{
+    margin:15% 35%;
+    text-align: center;
+}
+/*header{*/
+    /*text-align: center;*/
+    /*margin: 15% 50% 5% 25%;*/
+
+    /*width: 50%;*/
+/*}*/
+/*footer{*/
+    /*text-align: center;*/
+/*}*/
+.searchBar{
+
+    width: 100%;
+    border-color: aqua;
+    margin-bottom: 24px;
+    /*text-align: center;*/
+    /*margin: 5% 50% 1% 25%;*/
+}
+/*p{*/
+    /*margin: 1% 50% 5% 43%;*/
+    /*width:50%;*/
+
+}
